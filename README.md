@@ -11,6 +11,9 @@ If you think I have missed out on something (or) have any suggestions, feel free
 
 ### 2023
 
+- [ControlNet][Adding Conditional Control to Text-to-Image Diffusion Models](https://arxiv.org/pdf/2302.05543.pdf), `arxiv 202302`. 
+[[Code](https://github.com/lllyasviel/ControlNet)] 
+
 - [Pix2Pix-Zero][Zero-shot Image-to-Image Translation](https://arxiv.org/pdf/2302.03027.pdf), `arxiv 202302`. 
 [[Project](https://pix2pixzero.github.io/)] [[Code](https://github.com/pix2pixzero/pix2pix-zero)] 
 
