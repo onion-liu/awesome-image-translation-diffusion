@@ -11,7 +11,10 @@ If you think I have missed out on something (or) have any suggestions, feel free
 
 ### 2023
 
-- [ControlNet][Adding Conditional Control to Text-to-Image Diffusion Models](https://arxiv.org/pdf/2302.05543.pdf), `arxiv 202302`. 
+- [Composer][Composer: Creative and Controllable Image Synthesis with Composable Conditions](https://arxiv.org/pdf/2302.09778.pdf), `arxiv 202302`. 
+[[Project](https://damo-vilab.github.io/composer-page)][[Code](https://github.com/damo-vilab/composer)] 
+
+- :fire:**[ControlNet]**[Adding Conditional Control to Text-to-Image Diffusion Models](https://arxiv.org/pdf/2302.05543.pdf), `arxiv 202302`. 
 [[Code](https://github.com/lllyasviel/ControlNet)] 
 
 - [Pix2Pix-Zero][Zero-shot Image-to-Image Translation](https://arxiv.org/pdf/2302.03027.pdf), `arxiv 202302`. 
