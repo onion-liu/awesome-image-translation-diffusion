@@ -14,6 +14,9 @@ If you think I have missed out on something (or) have any suggestions, feel free
 - [Composer][Composer: Creative and Controllable Image Synthesis with Composable Conditions](https://arxiv.org/pdf/2302.09778.pdf), `arxiv 202302`. 
 [[Project](https://damo-vilab.github.io/composer-page)][[Code](https://github.com/damo-vilab/composer)] 
 
+- [T2I-Adapter][T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models](https://arxiv.org/pdf/2302.08453.pdf), `arxiv 202302`. 
+[[Code](https://github.com/TencentARC/T2I-Adapter)][[Demo](https://huggingface.co/spaces/Adapter/T2I-Adapter)] 
+
 - :fire:**[ControlNet]**[Adding Conditional Control to Text-to-Image Diffusion Models](https://arxiv.org/pdf/2302.05543.pdf), `arxiv 202302`. 
 [[Code](https://github.com/lllyasviel/ControlNet)] 
 
